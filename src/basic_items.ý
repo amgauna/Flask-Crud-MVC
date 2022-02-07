@@ -1,0 +1,11 @@
+items = list()  # global variable where we keep the data
+
+
+def create_items(app_items):
+    global items
+    items = app_items
+
+
+def create_item(name, price, quantity):
+    global items
+    items.append({'name': name, 'price': price, 'quantity': quantity})
