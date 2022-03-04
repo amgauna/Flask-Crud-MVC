@@ -1,2 +1,2 @@
-# Flask-Crud-MVC
-Flask Crud MVC
+# Python / Crud / MVC
+
